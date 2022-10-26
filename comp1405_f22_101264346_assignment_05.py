@@ -1,6 +1,3 @@
-# Gurman Mundi - 101264346
-# comp1405_f22_101264346_assignment_05.py
-
 import sys, pygame, random
 
 # stores the image from command line into a window
